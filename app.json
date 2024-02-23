@@ -1,4 +1,7 @@
 {
   "name": "PagePilot",
-  "displayName": "PagePilot"
+  "displayName": "PagePilot",
+  "android": {
+    "package": "com.pagepilot"
+  }
 }

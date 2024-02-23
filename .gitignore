@@ -64,3 +64,11 @@ yarn-error.log
 
 # testing
 /coverage
+
+# environment variables
+.env
+
+# Expo
+.expo
+dist/
+web-build/
